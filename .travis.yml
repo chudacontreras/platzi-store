@@ -13,7 +13,7 @@ notifications:
   email:
     recipients:
     - info@chuda.mi
-    - chudaocntreras@gmail.com
+    - chudacontreras@gmail.com
     on_sussess: always
     on_failure: always
 deploy:
